@@ -39,30 +39,6 @@ This repository is structured to prove proficiency across the entire AI lifecycl
 
 ---
 
-## 🗂️ Repository Structure
-
-The repository is organized to reflect a modular, microservice-oriented architecture:
-
-AI-Engineer-Core-Track/
-├── projects/
-│   ├── 01-computer-vision/          # Image classification & object detection
-│   ├── 02-nlp-sentiment/            # Fine-tuning BERT for sentiment analysis
-│   ├── 03-llm-rag-system/           # PDF Q&A bot using RAG and LangChain
-│   ├── 04-time-series-forecasting/  # LSTM/Transformer models for financial data
-│   └── 05-recommendation-engine/    # Collaborative filtering and two-tower networks
-│
-├── core_lib/                        # Reusable utility functions across all projects
-│   ├── data/                        # Data loaders and preprocessing
-│   ├── models/                      # Base model architectures
-│   ├── training/                    # Custom training loops and callbacks
-│   └── deployment/                  # Inference server templates
-│
-├── pipelines/                       # End-to-end DVC/MLflow training pipelines
-├── deployment/                      # Dockerfiles, Kubernetes manifests, and CI/CD
-├── notebooks/                       # Exploratory research and prototyping
-├── tests/                           # Unit and integration tests (pytest)
-├── requirements/                    # Environment files (dev, prod, test)
-└── configs/                         # YAML/JSON configuration files for hyperparams
 
 
 ## 🚀 Highlight Projects
@@ -153,7 +129,7 @@ While this is a personal portfolio repository, I welcome feedback and suggestion
 ---
 
 ## 📬 Connect with Me
-]- **Email**: [ug2102052@cse.pstu.ac.bd]
+**Email**: [ug2102052@cse.pstu.ac.bd]
 
 ---
 
