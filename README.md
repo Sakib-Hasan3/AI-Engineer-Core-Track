@@ -7,11 +7,6 @@
 6. Make sure to change the "Save as type" dropdown to **"All Files"** (so it doesn't save as `.txt`).
 7. Click **Save**.
 
----
-
-### 📄 The Markdown Code (Copy this entire block):
-
-```markdown
 # 🧠 AI-Engineer-Core-Track
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
@@ -48,7 +43,6 @@ This repository is structured to prove proficiency across the entire AI lifecycl
 
 The repository is organized to reflect a modular, microservice-oriented architecture:
 
-```text
 AI-Engineer-Core-Track/
 ├── projects/
 │   ├── 01-computer-vision/          # Image classification & object detection
@@ -69,9 +63,7 @@ AI-Engineer-Core-Track/
 ├── tests/                           # Unit and integration tests (pytest)
 ├── requirements/                    # Environment files (dev, prod, test)
 └── configs/                         # YAML/JSON configuration files for hyperparams
-```
 
----
 
 ## 🚀 Highlight Projects
 
